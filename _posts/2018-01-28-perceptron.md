@@ -7,8 +7,9 @@ excerpt: "Analytics, BI, EDA"
 mathjax: "true"
 ---
 
-##### Respondiendo al reto de [Daniel Jimenez](https://www.danieljimenezm.com), hare un analisis exploratorio de los datos de cócteles [data](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/cocktails.csv).
+##### Respondiendo al reto de [Daniel Jimenez](https://www.danieljimenezm.com), hare un analisis exploratorio de los datos de cócteles [data](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/cocktails.csv). 
 
+<br>
 
 
 <iframe width="950" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTdlMTdkMTUtMzk2ZC00MTI1LTllNWMtMWFlZGUzMDg1OTc4IiwidCI6IjcxOGE2MTYzLWE5YzYtNDdlMi1iYzRjLTZmMjRmMGJjMjYyYyJ9" frameborder="0" allowFullScreen="true"></iframe>
