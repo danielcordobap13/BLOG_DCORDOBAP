@@ -4,7 +4,7 @@ permalink: /Proyectos/
 title: "Proyectos"
 author_profile: true
 header:
-  image: "/images/fort point.png"
+  image: "/images/bogota_jmg.jpg"
 ---
 
 
