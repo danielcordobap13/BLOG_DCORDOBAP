@@ -23,12 +23,12 @@ Conclusiones Pestaña "Ingredientes":
 * Asi mismo el top 5 de ingredientes que en general se usan mas para hacer cócteles son el vodka, ginebra, azucar, jugo de naranja y el jugo de limon.
 * Los ingredientes mas usados para bebidas no alcoholicas de este conjunto son:
 
- - Azucar
- - Agua
- - Leche
- - Jugo de piña
- - Hielo
- - Yogurth
+-- Azucar
+-- Agua
+-- Leche
+-- Jugo de piña
+-- Hielo
+-- Yogurth
 
 Here's a numbered list:
 1. First
