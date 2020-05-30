@@ -17,17 +17,17 @@ _Respondiendo al reto de [Daniel Jimenez](https://www.danieljimenezm.com), hare 
 <br>
 
 
-_Conclusiones Pestaña "Ingredientes":
+_Conclusiones Pestaña "Ingredientes"_:
 
-* _De las 545 bebidas que hay en esta tabla, el 87.71% de ellas son alcoholicas, el 10,54% no alcoholica y el 1.65% son con opcion de alcohol.
-* _Asi mismo el top 5 de ingredientes que en general se usan mas para hacer cócteles son el vodka, ginebra, azucar, jugo de naranja y el jugo de limon.
-- _Los ingredientes mas usados para bebidas no alcoholicas de este conjunto son:
-   - _Azucar
-   - _Agua
-   - _Leche
-   - _Jugo de piña
-   - _Hielo
-   - _Yogurth
+* _De las 545 bebidas que hay en esta tabla, el 87.71% de ellas son alcoholicas, el 10,54% no alcoholica y el 1.65% son con opcion de alcohol_.
+* _Asi mismo el top 5 de ingredientes que en general se usan mas para hacer cócteles son el vodka, ginebra, azucar, jugo de naranja y el jugo de limon_.
+- _Los ingredientes mas usados para bebidas no alcoholicas de este conjunto son_:
+   - _Azucar_
+   - _Agua_
+   - _Leche_
+   - _Jugo de piña_
+   - _Hielo_
+   - _Yogurth_
 
 Here's a numbered list:
 1. First
