@@ -73,8 +73,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Your Location"
+  bio              : "Blog Analitica"
+  location         : "Bogota-Colombia"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -90,7 +90,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "dataoptimal" # "daniel-alejandro-cordoba-pulido-6b9199103" (the last part of your profile url, e.g. https://co.linkedin.com/in/daniel-alejandro-cordoba-pulido-6b9199103)
+  linkedin         : "daniel-alejandro-cordoba-pulido-6b9199103" #(the last part of your profile url, e.g. https://co.linkedin.com/in/daniel-alejandro-cordoba-pulido-6b9199103)
 
 
 # Reading Files
