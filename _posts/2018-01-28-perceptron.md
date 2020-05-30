@@ -47,6 +47,25 @@ _Respondiendo al reto de [Daniel Jimenez](https://www.danieljimenezm.com), hare 
    - _Leche_
    - _Yogurth_
  
+ <br>
+
+
+### _Conclusiones Pestaña "Composicion Bebidas"_:
+
+_En este analisis solo nos enfocaremos en las categorias "Ordinary Drink", "Cocktail", "Punch" y "Shot", ya que ellas almacenan la mayoria de cocteles de esta tabla_:
+
+- _Ordinary Drink_:
+   - _Ginebra_ _(6.51%)_
+   -  _Vodka_ _(3.81%)_
+   - _Jugo de limon_ _(3.77%)_
+   - _Ron ligero_ _(3.21%)_
+   - _Limon_ _(3.11%)_
+   - _Azucar en polvo_ _(2.83%)_
+   - _Cascara de limon_ _(2.64%)_
+   - _Jugo de Naranja_ _(2.55%)_
+   - _Granada_ _(2.45%)_
+   - _Amaretto_ _(2.36%)_
+
    
 
 
