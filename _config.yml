@@ -71,7 +71,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Daniel Alejandro Cordoba"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Blog Analitica"
   location         : "Bogota-Colombia"
@@ -90,7 +90,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "daniel-alejandro-cordoba-pulido-6b9199103" #(the last part of your profile url, e.g. https://co.linkedin.com/in/daniel-alejandro-cordoba-pulido-6b9199103)
+  linkedin         : "https://co.linkedin.com/in/daniel-alejandro-cordoba-pulido-6b9199103" #(the last part of your profile url, e.g. https://co.linkedin.com/in/daniel-alejandro-cordoba-pulido-6b9199103)
 
 
 # Reading Files
