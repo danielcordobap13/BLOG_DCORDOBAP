@@ -7,6 +7,8 @@ excerpt: "Analytics, BI, EDA"
 mathjax: "true"
 ---
 
+##### Respondiendo al reto de [Daniel Jimenez](https://www.danieljimenezm.com), hare un analisis exploratorio de los datos de cócteles [data](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/cocktails.csv).
+
 # H1 Heading
 
 ## H2 Heading
