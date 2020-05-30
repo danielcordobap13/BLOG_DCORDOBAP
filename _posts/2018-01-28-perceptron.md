@@ -7,7 +7,7 @@ excerpt: "Analytics, BI, EDA"
 mathjax: "true"
 ---
 
-Respondiendo al reto de [Daniel Jimenez](https://www.danieljimenezm.com), hare un analisis exploratorio de los datos de cócteles [data](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/cocktails.csv). 
+_Respondiendo al reto de [Daniel Jimenez](https://www.danieljimenezm.com), hare un analisis exploratorio de los datos de cócteles [data](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/cocktails.csv)._ 
 
 <br>
 
@@ -17,10 +17,10 @@ Respondiendo al reto de [Daniel Jimenez](https://www.danieljimenezm.com), hare u
 <br>
 
 
-Conclusiones Pestaña "Ingredientes":
+_Conclusiones Pestaña "Ingredientes":
 
-* De las 545 bebidas que hay en esta tabla, el 87.71% de ellas son alcoholicas, el 10,54% no alcoholica y el 1.65% son con opcion de alcohol.
-* Asi mismo el top 5 de ingredientes que en general se usan mas para hacer cócteles son el vodka, ginebra, azucar, jugo de naranja y el jugo de limon.
+* _De las 545 bebidas que hay en esta tabla, el 87.71% de ellas son alcoholicas, el 10,54% no alcoholica y el 1.65% son con opcion de alcohol.
+* _Asi mismo el top 5 de ingredientes que en general se usan mas para hacer cócteles son el vodka, ginebra, azucar, jugo de naranja y el jugo de limon.
 - Los ingredientes mas usados para bebidas no alcoholicas de este conjunto son:
    - Azucar
    - Agua
