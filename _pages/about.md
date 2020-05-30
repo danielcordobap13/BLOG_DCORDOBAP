@@ -5,6 +5,6 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+Soy profesional en estadística, apasionado por la ciencia de datos. Resido en la ciudad de Bogotá, Colombia.
 
-Etc, etc, etc
+I'm professional in statistics, passionate about data science. I'm living in Bogota, Colombia.
