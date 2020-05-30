@@ -1,5 +1,5 @@
 ---
-title: "Reto Analisis Cocteles"
+title: "Reto Analisis Cócteles"
 date: 2018-01-28
 tags: [Analytics, BI, EDA]
 header:
