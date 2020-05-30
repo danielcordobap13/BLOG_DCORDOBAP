@@ -22,7 +22,7 @@ Here's some **bold** text.
 What about a [link](https://github.com/dataoptimal)?
 
 
-<iframe width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTdlMTdkMTUtMzk2ZC00MTI1LTllNWMtMWFlZGUzMDg1OTc4IiwidCI6IjcxOGE2MTYzLWE5YzYtNDdlMi1iYzRjLTZmMjRmMGJjMjYyYyJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="950" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTdlMTdkMTUtMzk2ZC00MTI1LTllNWMtMWFlZGUzMDg1OTc4IiwidCI6IjcxOGE2MTYzLWE5YzYtNDdlMi1iYzRjLTZmMjRmMGJjMjYyYyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 Here's a bulleted list:
 * First item
