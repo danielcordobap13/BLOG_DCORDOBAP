@@ -72,7 +72,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Alejandro Cordoba"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Blog Analitica"
   location         : "Bogota, Colombia"
   email            :
