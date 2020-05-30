@@ -4,7 +4,7 @@ date: 2018-01-28
 tags: [Analytics, BI, EDA]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Analytics, BI, EDA"
 mathjax: "true"
 ---
 
