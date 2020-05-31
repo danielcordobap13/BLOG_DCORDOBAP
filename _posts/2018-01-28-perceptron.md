@@ -120,27 +120,24 @@ _Las medidas más usadas en bebidas alcoholicas son :_
    - _1/2 oz_
    - _2 oz_
 
+_Para las bebidas alcolohicas los vasos más usados son_:
+   - _Highball Vaso_ 
+   - _Coffe mug_ 
+   - _Vaso Collins_
+
+_En el caso de las bebidas que pueden o no ser alcoholicas, los vasos mas usados son_:
+   - _Vaso Collins_
+   - _Punch bowl_
+   
+   
+<br>
+
+### _Analisis Multivariado:_
+_Una vez se hizo un analisis descriptivo univariado, se procede a realizar un analisis multivariados para encontrar la combinacion entre atributos que generan los cockteles, para ello utilizaremos R_:
 
 
+   
 
-
-
-
-
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
 
 R code block:
 ```r
@@ -149,7 +146,6 @@ df <- read_csv("some_file.csv")
 head(df)
 ```
 
-Here's some inline code `x+y`.
 
 Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
@@ -157,8 +153,3 @@ Here's an image:
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
