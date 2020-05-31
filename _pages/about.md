@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/bogota_jmg.jpg"
 ---
 
 Soy profesional en estadística, apasionado por la ciencia de datos. Resido en la ciudad de Bogotá, Colombia.
