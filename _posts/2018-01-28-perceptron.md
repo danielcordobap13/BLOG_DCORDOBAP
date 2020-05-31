@@ -141,9 +141,19 @@ _Una vez se hizo un analisis descriptivo univariado, se procede a realizar un an
 
 R code block:
 ```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
+library(tidylo)
+library(dplyr)
+library(SensoMineR)
+library(FactoMineR)
+library(explor)
+
+
+
+cocktails <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/cocktails.csv')
+
+
+MC1=MCA(cocktails[,c("alcoholic","ingredient","category")])
+explor(MC1)
 ```
 
 
