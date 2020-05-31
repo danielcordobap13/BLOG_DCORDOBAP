@@ -104,6 +104,17 @@ _En este analisis solo nos enfocaremos en las categorias "Ordinary Drink", "Cock
 
    
 
+ <br>
+
+
+### _Conclusiones Pestaña "Vasos y Medidas"_:
+
+_Acorde a los dos histogramas que hay en esta pestaña, los vasos más usados para bebidas alcoholicas son_:
+  - _Vaso cocktel_ 
+  - _Vaso Collins_
+  - _Highball Vaso_
+  - _Vaso "Old Fashion"_ 
+
 
 
 
