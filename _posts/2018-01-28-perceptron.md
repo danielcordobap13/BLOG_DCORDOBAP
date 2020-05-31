@@ -3,7 +3,7 @@ title: "Reto Analisis Cócteles"
 date: 2018-01-28
 tags: [Analytics, BI, EDA]
 header:
-excerpt: "Analytics, BI, EDA"
+excerpt: "Analytics, BI, EDA, Multiple correspondence Analysis (MCA), PowerBI"
 mathjax: "true"
 ---
 
