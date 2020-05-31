@@ -12,7 +12,7 @@ locale                   : "es-COL"
 title                    : "Daniel Alejandro Cordoba"
 title_separator          : "-"
 name                     : "Daniel Alejandro Cordoba"
-description              : "Reto Análisis Cocteles"
+description              : "Blog de ciencia de datos"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,7 +90,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "daniel-alejandro-cordoba-pulido-6b9199103" #(the last part of your profile url, e.g. https://co.linkedin.com/in/daniel-alejandro-cordoba-pulido-6b9199103)
+  linkedin         : "https://co.linkedin.com/in/daniel-alejandro-cordoba-pulido-6b9199103" #(the last part of your profile url, e.g. https://co.linkedin.com/in/daniel-alejandro-cordoba-pulido-6b9199103)
 
 
 # Reading Files
