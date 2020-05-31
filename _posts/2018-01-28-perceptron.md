@@ -157,9 +157,8 @@ explor(MC1)
 ```
 
 
-Here's an image:
+Aqui los resultados:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
 
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+
 
