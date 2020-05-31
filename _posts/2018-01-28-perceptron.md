@@ -66,6 +66,42 @@ _En este analisis solo nos enfocaremos en las categorias "Ordinary Drink", "Cock
    - _Granada_ _(2.45%)_
    - _Amaretto_ _(2.36%)_
 
+- _Cocktail_:
+   - _Vodka_ _(7.2%)_
+   -  _Ginebra_ _(6.36%)_
+   - _Granada_ _(4.66%)_
+   - _Jugo de Naranja_ _(4.66%)_
+   - _Jugo de limon_ _(4.66%)_
+   - _Jugo de arandano_ _(3.81%)_
+   - _Cascara de piña_ _(2.54%)_
+   - _Absolut citron_ _(2.54%)_
+   - _Angostura bitters_ _(2.12%)_
+   - _Vermount seco_ _(2.12%)_
+
+- _Shot_:
+   - _Vodka_ _(6.58%)_
+   -  _Bailey's_ _(5.92%)_
+   - _Kahlua_ _(5.92%)_
+   - _Amaretto_ _(4.61%)_
+   - _Jugo de Arandano_ _(4.61%)_
+   - _Midori melon licor_ _(3.95%)_
+   - _151 proof ron_ _(3.29%)_
+   - _Raspberry licor_ _(3.29%)_
+   - _Goldschlager_ _(3.29%)_
+   - _Sambuca_ _(3.29%)_
+
+- _Punch_:
+   - _Jugo de Naranja_ _(6.58%)_
+   -  _Azucar_ _(5.92%)_
+   - _Vino rojo_ _(5.92%)_
+   - _Vodka_ _(4.61%)_
+   - _Hielo_ _(4.61%)_
+   - _Limon_ _(3.95%)_
+   - _Jugo de piña_ _(3.29%)_
+   - _Ron_ _(3.29%)_
+   - _Clavos_ _(3.29%)_
+   - _Jugo de Limon_ _(3.29%)_
+
    
 
 
