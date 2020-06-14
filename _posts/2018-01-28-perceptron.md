@@ -159,6 +159,6 @@ explor(MC1)
 
 Aqui los resultados:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/rsa_2.jpg" alt="linearly separable data">
-
+ 
 
 
