@@ -158,7 +158,8 @@ explor(MC1)
 
 
 Aqui los resultados:
-<img src="/images/perceptron/rsa_2.jpg" alt="linearly separable data">
- 
+
+<img src="/images/perceptron/rsa_2.jpg" alt="Simply Easy Learning" width="200"
+         height="80">
 
 
