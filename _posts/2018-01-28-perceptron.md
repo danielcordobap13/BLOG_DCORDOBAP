@@ -161,6 +161,6 @@ Aqui los resultados:
 
 <br>
 
-<img width="750" height="600" src="/images/perceptron/rsa_2.jpg">
+<img width="750" height="600" src="/images/perceptron/rsa_2.jpeg">
 
 
