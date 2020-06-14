@@ -60,4 +60,8 @@ Here's some math:
 
 $$z=x+y$$
 
+image: "/images/perceptron/percept.jpg"
+
+
+
 You can also put it inline $$z=x+y$$
