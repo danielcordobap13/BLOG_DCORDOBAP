@@ -159,6 +159,8 @@ explor(MC1)
 
 Aqui los resultados:
 
-#<img width="950" height="600" src="/images/perceptron/rsa_2.jpg">
+<br>
 
-image: "/images/perceptron/rsa_2.jpg"
+<img width="750" height="600" src="/images/perceptron/rsa_2.jpg">
+
+
