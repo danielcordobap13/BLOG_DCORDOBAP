@@ -159,4 +159,4 @@ explor(MC1)
 
 Aqui los resultados:
 
-<iframe width="950" height="600" src="/images/perceptron/rsa_2.jpg" frameborder="0" allowFullScreen="true"></iframe>
+<img width="950" height="600" src="/images/perceptron/rsa_2.jpg" frameborder="0" allowFullScreen="true">
