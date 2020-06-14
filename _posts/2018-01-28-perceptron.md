@@ -158,7 +158,7 @@ explor(MC1)
 
 
 Aqui los resultados:
-<img src="/images/perceptron/rsa_2.PNG" alt="linearly separable data">
+<img src="/images/perceptron/rsa_2.jpg" alt="linearly separable data">
  
 
 
