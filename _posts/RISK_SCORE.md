@@ -7,6 +7,6 @@ excerpt: "Analytics,H2O, Credit Risk, Machine Learning Interpretability"
 mathjax: "true"
 ---
 
-_Para esta practica se van a utilizar los datos del reto 
+ Para esta practica se van a utilizar los datos del siguiente reto [CREDIT_RISK](https://www.kaggle.com/c/home-credit-default-risk/data?select=HomeCredit_columns_description.csv) 
 
  
