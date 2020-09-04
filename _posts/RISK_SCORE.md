@@ -7,5 +7,6 @@ excerpt: "Analytics,H2O, Credit Risk, Machine Learning Interpretability"
 mathjax: "true"
 ---
 
-## _Daniel Cordoba Pulido_:
+_Para esta practica se van a utilizar los datos del reto 
+
  
