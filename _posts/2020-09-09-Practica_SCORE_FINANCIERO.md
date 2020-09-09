@@ -711,7 +711,7 @@ ale$plot()
     
 
 
-![png](Practica_SCORE_FINANCIERO_files/Practica_SCORE_FINANCIERO_65_1.png)
+![](/images/Practica_SCORE_FINANCIERO_65_1.png)
 
 
 Lo que indica la gráfica es que el riesgo de no pago se reduce significativamente cuando una persona tiene un Income total mayor a los USD 200000.
