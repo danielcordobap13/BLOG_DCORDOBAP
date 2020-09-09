@@ -13,7 +13,9 @@
 #### Packages: TeachingSampling, h2o:3.26.0.2, iml, DALEX, dplyr
 
 ---
-
+<html>
+	
+<body>	
 <br>
 En esta práctica se mostrará como desarrollar e interpretar un algoritmo de machine learning, enfocado al riesgo de crédito.
 
@@ -736,3 +738,6 @@ En conclusión, se podría definir al candidato optimo con las siguientes caract
 No seria correcto afirmar que este modelo esta listo para ser puesto en produccion ya que el sobreajuste que tiene es alto.
 
 Adicionalmente, los ejemplos de Interpretacion global se hicieron con una muestra de los datos originales por cuestiones de costo computacional.
+
+</body>
+</html>
