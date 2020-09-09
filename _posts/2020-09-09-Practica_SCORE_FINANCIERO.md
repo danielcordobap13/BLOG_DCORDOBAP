@@ -13,9 +13,9 @@
 #### Packages: TeachingSampling, h2o:3.26.0.2, iml, DALEX, dplyr
 
 ---
-<html>
+
 	
-<body>	
+
 <br>
 En esta práctica se mostrará como desarrollar e interpretar un algoritmo de machine learning, enfocado al riesgo de crédito.
 
@@ -715,7 +715,6 @@ ale$plot()
     
 
 
-![](/images/Practica_SCORE_FINANCIERO_65_1.png)
 
 
 Lo que indica la gráfica es que el riesgo de no pago se reduce significativamente cuando una persona tiene un Income total mayor a los USD 200000.
@@ -739,5 +738,4 @@ No seria correcto afirmar que este modelo esta listo para ser puesto en producci
 
 Adicionalmente, los ejemplos de Interpretacion global se hicieron con una muestra de los datos originales por cuestiones de costo computacional.
 
-</body>
-</html>
+
