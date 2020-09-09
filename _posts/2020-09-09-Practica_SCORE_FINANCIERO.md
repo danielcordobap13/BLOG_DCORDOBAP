@@ -546,7 +546,9 @@ h2o.varimp_plot(automl_leader)
 ```
 
 
+
 ![](/images/Practica_SCORE_FINANCIERO_47_0.png)
+
 
 
 <br>
@@ -639,7 +641,7 @@ ale$plot()
     
 
 
-![](/images/Practica_SCORE_FINANCIERO_56_1.png)
+![im1](/images/Practica_SCORE_FINANCIERO_56_1.png)
 
 
 Lo que indica la gráfica es que el riesgo de no pago se reduce significativamente cuando una persona tiene un Score de crédito mayor a los 200 puntos en esta central de riesgo.
