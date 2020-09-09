@@ -537,7 +537,7 @@ El modelo escogido por la función fue un Gradient Boosting Machine. De igual fo
 
 ### Interpretacion Global Modelo:
 
-<img src:https://github.com/danielcordobap13/BLOG_DCORDOBAP/blob/master/images/Practica_SCORE_FINANCIERO_47_0.png?raw=true>
+<img src:https://github.com/danielcordobap13/BLOG_DCORDOBAP/blob/master/images/Practica_0.jpg>
 <br>
 La primera tarea que se realiza dentro de este segmento es ver el peso de las variables que componen el algoritmo:
 
