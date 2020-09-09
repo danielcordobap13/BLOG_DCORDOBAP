@@ -639,7 +639,7 @@ ale$plot()
     
 
 
-![png](Practica_SCORE_FINANCIERO_files/Practica_SCORE_FINANCIERO_56_1.png)
+![](/images/Practica_SCORE_FINANCIERO_56_1.png)
 
 
 Lo que indica la gráfica es que el riesgo de no pago se reduce significativamente cuando una persona tiene un Score de crédito mayor a los 200 puntos en esta central de riesgo.
@@ -663,7 +663,7 @@ ale$plot()
     
 
 
-![png](Practica_SCORE_FINANCIERO_files/Practica_SCORE_FINANCIERO_59_1.png)
+![](/images/Practica_SCORE_FINANCIERO_59_1.png)
 
 
 Lo que indica la gráfica es que el riesgo de no pago se reduce significativamente cuando una persona tiene un Score de crédito mayor a los 400 puntos en esta central de Riesgo.
@@ -686,7 +686,7 @@ ale$plot()
     
 
 
-![png](Practica_SCORE_FINANCIERO_files/Practica_SCORE_FINANCIERO_62_1.png)
+![](/images/Practica_SCORE_FINANCIERO_62_1.png)
 
 
 
