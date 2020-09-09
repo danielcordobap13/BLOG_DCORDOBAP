@@ -554,6 +554,10 @@ h2o.varimp_plot(automl_leader)
 
 
 
+
+![](/images/Practica_0.jpg)
+
+
 <br>
 
 Dentro de las 5 variables que más pesan se encuentran los puntajes financieros provenientes de otras centrales de riesgo (EXT_SOURCE_1, EXT_SOURCE_2 y EXT_SOURCE_3), seguido por el income total. 
