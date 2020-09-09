@@ -546,7 +546,7 @@ h2o.varimp_plot(automl_leader)
 ```
 
 
-![png](Practica_SCORE_FINANCIERO_files/Practica_SCORE_FINANCIERO_47_0.png)
+![png](/images/Practica_SCORE_FINANCIERO_47_0.png)
 
 
 <br>
