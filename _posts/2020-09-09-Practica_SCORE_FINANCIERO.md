@@ -546,8 +546,8 @@ h2o.varimp_plot(automl_leader)
 ```
 
 
+<img src="/images/Practica_SCORE_FINANCIERO_47_0.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
-![im 1](/images/Practica_SCORE_FINANCIERO_47_0.png)
 
 
 
